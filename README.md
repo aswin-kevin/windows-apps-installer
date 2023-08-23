@@ -35,11 +35,11 @@ As a part of our software provisioning process, this script streamlines the setu
 
 ### Installation
 
-1. Clone this repository or download the `chocolatey.bat`, `devapps.config`, and `chocoupgrade.bat` files to your local machine.
+1. Clone this repository or download the `run-installer.bat`, `devapps.config` files to your local machine.
 
 ## Usage
 
-1. Run the `chocolatey.bat` script with administrative privileges.
+1. Run the `run-installer.bat` script with administrative privileges.
 2. Follow the on-screen menu prompts to select the desired action.
 3. The script will guide you through the installation, upgrading, or setup of Chocolatey packages.
 
